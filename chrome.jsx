@@ -694,7 +694,7 @@ function ProfileModal({ open, profile, onSave, onClose }) {
       setUsername(profile?.username || "");
       setFirstName(profile?.firstName || "");
       setLastName(profile?.lastName || "");
-      setTimeout(() => firstRef.current?.focus(), 60);
+      setTimeout(() => firstRef.current?.focus({ preventScroll: true }), 60);
     }
   }, [open, profile]);
 
@@ -757,7 +757,7 @@ function ProfileModal({ open, profile, onSave, onClose }) {
     </label>
   );
 
-  return (
+  return ReactDOM.createPortal(
     <div className="fixed inset-0 z-[100] grid place-items-center p-4"
       style={{ background: "color-mix(in oklch, #05070a 72%, transparent)", backdropFilter: "blur(6px)" }}
       onMouseDown={(e) => { if (e.target === e.currentTarget) onClose(); }}>
@@ -803,7 +803,8 @@ function ProfileModal({ open, profile, onSave, onClose }) {
           </button>
         </div>
       </form>
-    </div>
+    </div>,
+    document.body
   );
 }
 
