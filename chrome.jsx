@@ -111,8 +111,8 @@ function NavBar({ films, query, setQuery, onHome, onFavorites, onSearchFocus, vi
             onChange={(e) => setQuery(e.target.value)}
             onFocus={onSearchFocus || onHome}
             placeholder="Buscar película, director o etiqueta…"
-            className="w-full pl-10 pr-10 py-2.5 rounded-full text-[13.5px] outline-none transition-colors"
-            style={{ background: "var(--surface)", color: "var(--text)", border: "1px solid var(--line)" }}
+            className="w-full pl-10 pr-10 py-2.5 rounded-full outline-none transition-colors"
+            style={{ background: "var(--surface)", color: "var(--text)", border: "1px solid var(--line)", fontSize: "16px" }}
             onMouseEnter={(e) => !query && (e.currentTarget.style.borderColor = "color-mix(in oklch, var(--accent) 40%, var(--line))")}
             onMouseLeave={(e) => document.activeElement !== e.currentTarget && (e.currentTarget.style.borderColor = "var(--line)")}
             onFocusCapture={(e) => (e.currentTarget.style.borderColor = "var(--accent)")}
@@ -745,8 +745,9 @@ function ProfileModal({ open, profile, onSave, onClose }) {
           onChange={(e) => setter(e.target.value)}
           placeholder={opts.placeholder}
           maxLength={opts.maxLength || 40}
-          className="w-full py-2.5 rounded-xl text-[14px] outline-none transition-colors"
+          className="w-full py-2.5 rounded-xl outline-none transition-colors"
           style={{
+            fontSize: "16px",
             background: "var(--bg)", color: "var(--text)", border: "1px solid var(--line)",
             paddingLeft: opts.prefix ? "1.9rem" : "0.85rem", paddingRight: "0.85rem",
           }}
