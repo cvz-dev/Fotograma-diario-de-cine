@@ -1,6 +1,6 @@
 ## Reseña
 
-The Wolfpack (dirigida por Crystal Moselle) es un documental interesante, pero triste de ver, que retrata el extremo confinamiento de los hermanos Angulo en Nueva York. La obra nos muestra cómo el cine se convirtió en su única forma de experimentar la realidad y encontrarle sentido a su existencia, todo debido a la terrible justificación de un padre fanático. Aunque la narrativa llega a ser algo lenta y tediosa, plasma de manera fascinante el momento en que los jóvenes deciden abandonar su encierro —su propia cueva de Platón— para salir y enfrentar la vida tal y como es.
+The Wolfpack (dirigida por Crystal Moselle) es un documental interesante, pero triste de ver, que retrata el extremo confinamiento de los hermanos Angulo en Nueva York. La obra nos muestra cómo el cine se convirtió en su única forma de experimentar la realidad y encontrarle sentido a su existencia, todo debido a la terrible justificación de un padre fanático. Aunque la narrativa llega a ser algo lenta y tediosa, plasma de manera fascinante el momento en que los jóvenes deciden abandonar su encierro (su propia cueva de Platón) para salir y enfrentar la vida tal y como es.
 
 ## Opinión
 
