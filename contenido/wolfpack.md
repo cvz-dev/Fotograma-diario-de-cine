@@ -1,0 +1,17 @@
+## Reseña
+
+The Wolfpack (dirigida por Crystal Moselle) es un documental interesante, pero triste de ver, que retrata el extremo confinamiento de los hermanos Angulo en Nueva York. La obra nos muestra cómo el cine se convirtió en su única forma de experimentar la realidad y encontrarle sentido a su existencia, todo debido a la terrible justificación de un padre fanático. Aunque la narrativa llega a ser algo lenta y tediosa, plasma de manera fascinante el momento en que los jóvenes deciden abandonar su encierro —su propia cueva de Platón— para salir y enfrentar la vida tal y como es.
+
+## Opinión
+
+El inicio del documental te hace pensar que los hermanos solo están jugando, no que esa es realmente su manera de vivir y experimentar algo debido a su confinamiento; es algo raro. Me parece que la justificación del padre es terrible y de un fanatismo extremo. Es increíble que todos hayan soportado eso por sus creencias. Si para mí ya es incorrecto intentar que a tu hijo le guste un equipo de fútbol solo porque a ti te gusta, imponerle a tu familia una vida así me parece ridículo. Obviamente, tarde o temprano su forma de llevar las cosas los iba a distanciar.
+
+Por otro lado, me resulta impresionantemente terrible cómo mencionan que, gracias al cine, le encontraron sentido a la vida. Imaginemos que no lo tuvieran; se hubieran deprimido o tal vez hasta suicidado, es muy difícil de imaginar. Sobre la ruptura, era algo que tenía que pasar, no podían vivir toda la vida de esa manera. Al final, su casa era literalmente su cueva de Platón: solo tenían sombras de lo que era la vida real y decidieron salir de la cueva y vivir la vida tal y como es.
+
+En general, es un documental interesante y es triste ver que esas cosas pasen, pero es algo lento y tedioso. Se tardan demasiado en llegar a algo y me hubiera gustado que indagaran más en la psicología de ellos. Digo, al final un encierro así en algo les habrá afectado.
+
+## Documental en The Wolfpack
+
+La película The Wolfpack se enmarca principalmente dentro del modo observacional y el modo participativo. Por un lado, gran parte del filme funciona bajo la premisa del modo observacional, donde la cámara actúa como una "mosca en la pared". La directora captura momentos auténticos sin mediación evidente, permitiendo al espectador presenciar la peculiar cotidianidad de los hermanos Angulo dentro de su encierro en el apartamento de Manhattan. Esta observación pura es lo que nos permite contemplar la autenticidad de sus elaboradas recreaciones cinematográficas de cartón y la dinámica familiar de aislamiento sin que la cámara parezca interrumpirlos.
+
+Por otro lado, la obra transita de manera muy orgánica hacia el modo participativo, ya que la cineasta interactúa directamente con los sujetos. A diferencia de un documental estrictamente objetivo, aquí la presencia de la realizadora se convierte en parte integral de la narrativa. La película muestra abiertamente su influencia en el proceso; de hecho, fue su acercamiento a los hermanos en la calle lo que propició la filmación. A través de entrevistas, preguntas informales y conversaciones detrás de la cámara, queda claro cómo el vínculo de confianza que construye con ellos influye profundamente en su eventual apertura hacia el mundo exterior, haciendo que la experiencia de la directora se entrelace con la historia de los protagonistas.

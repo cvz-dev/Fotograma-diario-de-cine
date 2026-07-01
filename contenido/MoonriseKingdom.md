@@ -1,0 +1,19 @@
+## Reseña
+
+Moonrise Kingdom (dirigida por Wes Anderson) cuenta la historia de dos niños inadaptados que deciden huir juntos de su pequeña isla. La cinta destaca por el estilo visual inconfundible de su director, el cual encaja a la perfección con lo extraño de la historia y resulta muy interesante de ver. La trama funciona como una representación del primer amor desbordante, contrastando la gran capacidad de resolución de los protagonistas infantiles con un mundo de adultos que parecen incapaces de tomar buenas decisiones.
+
+## Opinión
+
+En lo personal, siento que la estética de Wes Anderson va perfecto con lo extraño de la historia; visualmente es un trabajo muy interesante de ver. Además, me llamó mucho la atención cómo la película hace ver a los niños como personas mucho más capaces que los adultos. Son ellos quienes resuelven mejor los problemas y parece que tienen una mejor capacidad de toma de decisiones en medio de todo el caos.
+
+Creo que la película es también una representación muy clara del primer amor, ese en el cual te desbordas por esa persona y darías lo que fuera bajo la idea de "vamos a escaparnos y vivir un millón de aventuras juntos hasta el fin del mundo". Los personajes representan esto muy bien, y al final, cuando se despiden y ya pasó todo el conflicto, se siente como cuando termina la etapa de la "luna de miel"; todo es menos efusivo y ahora sí existe el concepto real de "amor".
+
+Aun con estos detalles, la verdad es que la sentí rara. Por un momento, en la escena de la iglesia, creí que terminaría en una especie de Romeo y Julieta lanzándose al vacío, pero capaz era muy oscuro que sucediera eso. En términos generales me pareció una película rara e incómoda; tendrá sus momentos, pero simplemente no me gustó mucho.
+
+## El drama cinematográfico en Moonrise Kingdom
+
+Aunque Moonrise Kingdom se presenta a primera vista bajo una estética colorida, simétrica y con un tono peculiar propio de Wes Anderson, en su núcleo narrativo posee los elementos fundamentales del género de drama cinematográfico. La película se construye sobre el aislamiento emocional y la disfuncionalidad. En lugar de centrarse únicamente en la aventura infantil, la trama explora temas profundamente dramáticos como la orfandad, la depresión, la infidelidad y el rechazo. Los personajes, tanto infantiles como adultos, están lidiando con una profunda tristeza y la incapacidad de encajar en sus propios entornos, utilizando la fuga como un mecanismo desesperado para buscar conexión humana.
+
+El conflicto dramático se sostiene principalmente en el contraste entre la madurez forzada de los niños y la incompetencia emocional de los adultos. Sam y Suzy son personajes marginados: él es un huérfano rechazado por sus padres adoptivos y ella es una niña incomprendida en un hogar fracturado. El drama se intensifica al revelar que los adultos que deberían protegerlos —unos padres sumidos en el engaño y el letargo, un policía solitario y un líder de exploradores rebasado por la situación— están igual o más perdidos que ellos. Esta dinámica genera una atmósfera de melancolía que impregna toda la cinta, demostrando que la huida de los niños no es un simple juego, sino un grito de auxilio frente a una realidad dolorosa.
+
+Finalmente, la obra eleva las apuestas mediante elementos de amenaza real que son característicos del drama. La presencia de "Servicios Sociales" no funciona como un villano cómico, sino como una amenaza institucional genuina que podría arrebatarle a Sam su identidad y su futuro, enviándolo a un reformatorio y sometiéndolo a terapias de choque. A esto se le suma la inminente llegada de un huracán catastrófico, un recurso clásico que exterioriza el conflicto interno de los personajes. La tormenta arrasa literalmente con el entorno físico mientras los personajes enfrentan el clímax de sus crisis emocionales, consolidando la obra como un relato dramático sobre la pérdida de la inocencia y la búsqueda de pertenencia.

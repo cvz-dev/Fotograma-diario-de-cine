@@ -1,0 +1,17 @@
+## Reseña
+
+District 9 (dirigida por Neill Blomkamp) utiliza un estilo de falso documental que te sumerge rápidamente en la historia, haciéndote sentir como un testigo de lo que realmente sucedió con la llegada de una raza extraterrestre. La cinta funciona como una gran metáfora sobre la opresión, dejando claro que frente a lo desconocido, la humanidad resulta ser la verdadera amenaza. Aunque la mezcla de géneros entretiene y transmite un mensaje valioso, su desarrollo llega a ser lento y le da demasiadas vueltas al conflicto, lo que por momentos le resta fuerza a la narrativa.
+
+## Opinión
+
+El inicio de la película me parece una manera muy interesante de involucrar al espectador; el formato realmente te hace sentir que eres una persona viendo registros de lo que sucedió. Sin embargo, conforme avanza, rompe un poco con la idea del documental y nos vuelve omniscientes, lo cual me pareció una mezcla rara que hace perder parte de esa inmersión.
+
+Aunque reconozco que la trama es una buena metáfora, el desarrollo se me hizo lento, siento que le da muchas vueltas a la situación y la verdad me aburrió por momentos. Lo que sí me parece excelente es su mensaje: uno pensaría que los aliens serían una amenaza agresiva, pero al ver que son contenidos tan fácil y exterminados con armas terrestres, te das cuenta de que la amenaza somos nosotros. Queda claro que si oprimes tanto a un pueblo se terminará rebelando; algo que bien podría pasar, más aún si llegaran a tener "refuerzos".
+
+Finalmente, sobre el protagonista, creo que la única forma en la que él podía entender de lo que formaba parte, y el daño que provocaba su organización a los aliens, era sufriendo esa transformación en carne propia.
+
+## Comedia en District 9
+
+Aunque District 9 es ampliamente reconocida como una obra de ciencia ficción y crítica social, utiliza fuertemente la sátira y el humor negro, elementos que la insertan en los terrenos de la comedia cinematográfica, específicamente a través del formato de falso documental (mockumentary). En su primer acto, la película parodia la burocracia corporativa y la insensibilidad gubernamental a través de la empresa MNU. El humor surge de la absurdidad con la que se tratan situaciones inhumanas; por ejemplo, la forma en que los funcionarios presentan el desalojo de seres vivos utilizando un lenguaje corporativo banal, o la macabra y torpe alegría del protagonista al destruir huevos alienígenas frente a la cámara como si fuera una actividad cotidiana. Este contraste entre la tragedia de la situación y la ligereza burocrática es un pilar fundamental de la comedia satírica.
+
+Otro elemento puramente cómico recae en la construcción de su protagonista, Wikus van de Merwe. Lejos de ser el clásico héroe de acción o el científico brillante de la ciencia ficción tradicional, Wikus es introducido como un oficinista torpe, ingenuo, un tanto cobarde y desesperado por complacer a su suegro, recordando a las figuras patéticas de la comedia de oficina. Su comportamiento inepto y sus reacciones exageradas ante el contacto alienígena rayan constantemente en el ridículo. A esto se le suma la absurda premisa de que una raza extraterrestre tecnológicamente superior termina viviendo en barrios marginales de Johannesburgo y desarrollando una extraña, cómica y desesperada adicción a la comida para gatos. Estos elementos absurdos y el patetismo inicial del protagonista permiten que la película funcione como una excelente comedia negra antes de transicionar hacia el horror corporal y el drama de supervivencia.

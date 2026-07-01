@@ -1,0 +1,15 @@
+## Reseña
+
+Amores perros (dirigida por Alejandro González Iñárritu) es una cruda exploración de la naturaleza humana que huye por completo de los clichés tradicionales. A través de tres historias entrelazadas por un aparatoso accidente, la cinta expone un drama visceral sobre las clases sociales. Destaca por su ritmo dinámico y una estructura narrativa fragmentada que, lejos de ser confusa, te atrapa de inmediato, logrando una inmersión brutal. Es un filme directo que no le da vueltas al conflicto, marcando un hito en el cine mexicano.
+
+## Opinión
+
+La verdad, Amores perros me parece fascinante por cómo maneja su estructura. A diferencia de otras cintas donde el desarrollo a veces se siente lento, tedioso o le da demasiadas vueltas al asunto, aquí el ritmo es dinámico y sumamente crudo. Las tres historias conectadas por el choque funcionan a la perfección; te sumergen por completo en la historia sin necesidad de usar recursos rebuscados y mantienen la atención al máximo en todo momento.
+
+Ver esta ópera prima me hace pensar mucho en la enorme evolución de Iñárritu como director. A mí me gustó muchísimo Bardo y toda esa profunda introspección que hizo hacia sí mismo, por lo que resulta interesantísimo ver el contraste entre esa obra tan madura y la visceralidad urbana con la que empezó su carrera. Revisitar esta genialidad en sus inicios definitivamente me deja con muchísimas ganas de ver la nueva película que estrenará este año.
+
+## Cine mexicano en Amores perros
+
+Dentro del panorama del cine mexicano, Amores perros representa un parteaguas absoluto y sus aciertos son innegables. La película revitalizó una industria nacional que atravesaba un momento complicado, introduciendo una estética visual cruda, cámara en mano y un realismo sucio que capturó la verdadera esencia y las brutales desigualdades de la Ciudad de México. Su mayor virtud radica en el inteligente guion de Guillermo Arriaga, el cual utiliza un evento detonante para entrelazar tres historias de distintas clases sociales mediante una narrativa no lineal y compleja. Además, la visceralidad de las actuaciones y la excelente banda sonora lograron conectar tanto a nivel local como internacional, demostrando al mundo que el cine mexicano podía entregar historias de altísimo nivel, universales y atrapantes.
+
+Sin embargo, la cinta no está exenta de ciertos desaciertos que pueden llegar a afectar la experiencia general. Uno de los puntos más notorios es el desequilibrio en el ritmo de sus tres segmentos. Mientras que la primera historia (Octavio y Susana) mantiene una intensidad frenética, el segundo relato (Daniel y Valeria) sufre de una notable caída de ritmo, sintiéndose por momentos un poco estirado y lento, lo que rompe ligeramente la inmersión lograda al inicio. Asimismo, la representación gráfica y brutal de las peleas de perros, aunque está justificada narrativamente para reflejar el entorno de violencia de los personajes, resulta en una experiencia visual sumamente incómoda y difícil de digerir, utilizando un recurso que raya en lo excesivamente explícito.

@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:api.anthropic.com)",
+      "Bash(mkdir -p /tmp/design_extract)",
+      "Bash(cp \"/home/cvz/.claude/projects/-home-cvz-cvz-dev-sistemas-cine/ca016f5a-32ab-4fac-b2e8-3234fc59521a/tool-results/webfetch-1780860934080-k5y0qi.bin\" /tmp/design_extract/design.tar.gz)",
+      "Read(//tmp/**)",
+      "Bash(tar -tzf design.tar.gz)",
+      "Bash(tar -xzf design.tar.gz)",
+      "Bash(mkdir -p /home/cvz/cvz_dev/sistemas/cine/cine)",
+      "Bash(cp /tmp/design_extract/portafolio-cine-rese-as-remix/project/Fotograma.html /home/cvz/cvz_dev/sistemas/cine/Fotograma.html)",
+      "Bash(cp /tmp/design_extract/portafolio-cine-rese-as-remix/project/cine/data.jsx /home/cvz/cvz_dev/sistemas/cine/cine/data.jsx)",
+      "Bash(cp /tmp/design_extract/portafolio-cine-rese-as-remix/project/cine/icons.jsx /home/cvz/cvz_dev/sistemas/cine/cine/icons.jsx)",
+      "Bash(cp /tmp/design_extract/portafolio-cine-rese-as-remix/project/cine/components.jsx /home/cvz/cvz_dev/sistemas/cine/cine/components.jsx)",
+      "Read(//home/cvz/cvz_dev/sistemas/**)",
+      "Bash(python3 -m http.server 8732)",
+      "Bash(echo \"PID=$!\")",
+      "Bash(curl -s http://localhost:8732/cine/Fotograma.html)",
+      "Bash(Xvfb :99 -screen 0 1280x800x24)",
+      "Bash(DISPLAY=:99 google-chrome --no-sandbox --headless=new --screenshot=/tmp/cine_home.png --window-size=1280,800 \"http://localhost:8732/cine/Fotograma.html\")",
+      "Bash(echo \"EXIT=$?\")",
+      "Bash(node -e \"require\\('playwright'\\)\")",
+      "Bash(DISPLAY=:99 google-chrome --no-sandbox --headless=new \\\\ *)",
+      "Bash(npx --yes playwright@latest --version)",
+      "Bash(echo \"exit=$?\")",
+      "Bash(node verify_cine.js)",
+      "Bash(npm init *)",
+      "Bash(npm install *)",
+      "Bash(node debug_cine.js)"
+    ],
+    "additionalDirectories": [
+      "/tmp"
+    ]
+  }
+}
